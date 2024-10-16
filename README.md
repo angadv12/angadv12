@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### My name is Angad Brar
-- I'm pursuing a BSCS at the University of Virginia, with a minor in DS
+- I'm pursuing CS and DS at the University of Virginia
 - 📫 How to reach me:
   * angadbrar512@gmail.com
   * angadbrar@virginia.edu
