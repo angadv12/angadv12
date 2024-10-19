@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 ### My name is Angad Brar
-- I'm pursuing CS and DS at the University of Virginia
+- I'm pursuing a B.S. in Computer Science at the University of Virginia
+  * expected grad: Spring 2026
 - 📫 How to reach me:
   * angadbrar512@gmail.com
   * angadbrar@virginia.edu
