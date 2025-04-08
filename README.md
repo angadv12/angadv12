@@ -3,4 +3,3 @@
   * expected grad: Spring 2026
 - 📫 How to reach me:
   * angadbrar512@gmail.com
-  * angadbrar@virginia.edu
